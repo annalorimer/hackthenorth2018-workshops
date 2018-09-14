@@ -18,14 +18,9 @@ This workshop will cover what it means for technology to be ethical and responsi
 **Content Breakdown:**
 - Current state of tech
     - Set the scene for the current state of the tech industry with respect to ethics/responsibility
-    - Discuss recent incidents where tech has had negative impacts
+    - Discuss incidents where design decisions have had negative impacts on users
 - What is ethical/responsible tech?
-    - Describe a framework for discussions about whether a technology is ethical
-    - Difference between ethical and legal
 - How to integrate ethics/responsibility into the software development cycle
-    - Discuss at what stage ethics and responsibility should be considered and how they should be addressed
-- Work through an example of planning ethical/responsible technology
-    - Provide participants with a scenario and have them make an ethical project plan
-- Wrap up
-    - Summarize what we talked about and how to move forward from here
+- Work through examples of thinking critically about design decisions
+- Wrap up: How to move forward from here
 
